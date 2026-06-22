@@ -20,7 +20,7 @@ This workbook contains the original dataset before any cleaning, transformation,
 
 ### 2. Main Project Workbook
 
-**File:** `02_Sales_Analysis_Project.xlsx`
+**File:** `Sales Data Project.xlsx`
 
 This workbook contains the following worksheets:
 
